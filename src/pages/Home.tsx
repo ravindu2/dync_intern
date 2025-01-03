@@ -1,4 +1,3 @@
-import React from 'react';
 import img1 from '../assets/minator-logo.png';
 
 const Home = () => {
